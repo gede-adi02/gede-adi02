@@ -1,5 +1,7 @@
 # Hello there, I'm Gede! ✌️
 
+![](https://tenor.com/2QYnURMKp9.gif)
+
 I am an **Informatics Student** who still keep learning about coding with a focus on UI/UX and Front-End Development. I'm still a beginner and far away from becoming a professional programmer.
 
 ---
@@ -45,9 +47,7 @@ A performance comparison project that analyzes the execution time and statistica
 
 ---
 
-<p align="center">
-  <img src="https://tenor.com/2QYnURMKp9.gif" alt="March 7th Meme" width="500">
-</p>
+
 
 
 
