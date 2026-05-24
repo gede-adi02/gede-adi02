@@ -1,7 +1,7 @@
 # Hello there, I'm Gede! ✌️
 
 <p align="center">
-  <img src="images/March7th.gif" alt="March 7th Sus Meme" width="500">
+  <img src="images/March7th.gif" alt="March 7th Sus Meme" width="250">
 </p>
 
 I am an **Informatics Student** who still keep learning about coding with a focus on UI/UX and Front-End Development. I'm still a beginner and far away from becoming a professional programmer.
