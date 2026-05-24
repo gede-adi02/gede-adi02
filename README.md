@@ -1,7 +1,7 @@
 # Hello there, I'm Gede! ✌️
 
 <p align="center">
-  <img src="https://tenor.com/6uZZ.gif" alt="Obi-wan Hello there" width="250">
+  <img src="images/ObiwanHellothere.gif" alt="Obi-wan Hello there" width="300">
 </p>
 
 I am an **Informatics Student** who still keep learning about coding with a focus on UI/UX and Front-End Development. I'm still a beginner and far away from becoming a professional programmer.
