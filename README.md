@@ -1,7 +1,5 @@
 # Hello there, I'm Gede! ✌️
 
-![](https://tenor.com/2QYnURMKp9.gif)
-
 I am an **Informatics Student** who still keep learning about coding with a focus on UI/UX and Front-End Development. I'm still a beginner and far away from becoming a professional programmer.
 
 ---
