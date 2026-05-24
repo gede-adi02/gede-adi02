@@ -15,29 +15,33 @@ I am an **Informatics Student** who still keep learning about coding with a focu
 ## 🛠️ Tech Stack & Tools
 
 ### **Web Development**
-- **Language:** HTML, CSS, Js, PHP
-- **Design Tools:** Figma
+- **Language:** HTML, CSS, Javascript, PHP
 
 ### **Mobile Development**
 - **Language:** Dart
 - **Framework:** Flutter
-- **Design Tools:** Figma
 
 ### **Algorithm Optimization Testing**
 - **Language:** Python, C++
+
+### **Tools**
+- **Design:** Figma
+- **Coding:** VS Code
+- **Development Environment:** Laragon
+- **OS:** Windows 11, Ubuntu Linux
 
 ---
 
 ## 📂 Featured Projects
 
 ### **Website-Ku**
-A tailored web-based POS application designed for a local coffee shop workflow, focusing on seamless transaction handling and an intuitive UI.
+Website-Ku is a website project to introduce myself and having some features on it such as a calculator and form display.
 
-### **Aplikasi Dart**
-An automated agricultural system modeled using PEAS and state space frameworks to optimize water management and irrigation efficiency.
+### **Aplikasi Manajemen Data Mahasiswa (Student Data Management Application)**
+An Basic Android-based application project with Dart language that aims to manage student data, such as Number and Name, and so on.
 
 ### **Algorithm Benchmarking**
-A performance comparison project analyzing the runtime and statistical efficiency of **QuickSort** versus **Hybrid sorting algorithms**.
+A performance comparison project analyzing the runtime and statistical efficiency of **QuickSort** versus **Hybrid sorting algorithms** with Python Language.
 
 ---
 
