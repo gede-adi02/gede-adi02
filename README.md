@@ -1,4 +1,4 @@
-# Hi there, I'm Gede! 👋
+# Hello there, I'm Gede! ✌️
 
 I am an **Informatics Student** who still keep learning about coding with a focus on UI/UX and Front-End Development. I'm still a beginner and far away from becoming a professional programmer.
 
@@ -41,9 +41,13 @@ Website-Ku is a website project to introduce myself and having some features on 
 An Basic Android-based application project with Dart language that aims to manage student data, such as Number and Name, and so on.
 
 ### **Algorithm Benchmarking**
-A performance comparison project analyzing the runtime and statistical efficiency of **QuickSort** versus **Hybrid sorting algorithms** with Python Language.
+A performance comparison project that analyzes the execution time and statistical efficiency of Procedural versus Object-Oriented Programming Methods with the Python Language.
 
 ---
+
+<p align="center">
+  <img src="https://tenor.com/2QYnURMKp9.gif" alt="March 7th Meme" width="500">
+</p>
 
 
 
