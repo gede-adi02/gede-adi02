@@ -8,15 +8,15 @@ I am an **Informatics Student** who still keep learning about coding with a focu
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🎓 **Education:** 4th-semester Informatics Student
-- 💻 **Focus Areas:** Web Development, Mobile Development, and Algorithm Optimization
-- 🔒 **Interests:** UI/UX Design and Front-End Development
+- **Education:** 4th-semester Informatics Student
+- **Focus Areas:** Web Development, Mobile Development, and Algorithm Optimization
+- **Interests:** UI/UX Design and Front-End Development
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 ### **Web Development**
 - **Language:** HTML, CSS, Javascript, PHP
@@ -36,7 +36,7 @@ I am an **Informatics Student** who still keep learning about coding with a focu
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
 ### **Website-Ku**
 Website-Ku is a website project to introduce myself and having some features on it such as a calculator and form display.
