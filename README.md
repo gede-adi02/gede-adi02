@@ -31,7 +31,7 @@ I am an **Informatics Student** who still keep learning about coding with a focu
 ### **Tools**
 - **Design:** Figma
 - **Coding:** VS Code
-- **Development Environment:** Laragon
+- **Development Environment:** Laragon, Google Chrome, Microsoft Edge
 - **OS:** Windows 11, Ubuntu Linux
 
 ---
