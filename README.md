@@ -10,7 +10,7 @@ I am an **Informatics Student** who still keep learning about coding with a focu
 
 ## About Me
 
-- **Education:** 4th-semester Informatics Student
+- **Education:** Informatics Student
 - **Focus Areas:** Web Development, Mobile Development, and Algorithm Optimization
 - **Interests:** UI/UX Design and Front-End Development
 
