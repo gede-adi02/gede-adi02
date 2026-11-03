@@ -49,10 +49,6 @@ A performance comparison project that analyzes the execution time and statistica
 
 ---
 
-<p align="center">
-  <img src="https://commons.wikimedia.org/w/index.php?curid=65445400" alt="Galactic Empire Insignia" width="120" height="120"/>
-</p>
-
 
 
 
