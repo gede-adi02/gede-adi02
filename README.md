@@ -1,7 +1,7 @@
 # Hello there, I'm Gede! ✌️
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/RLuqMicVax4AAAAC/star-destroyer-star-wars.gif" alt="Star Destroyer Arrives" width="300">
+  <img src="https://media1.tenor.com/m/RLuqMicVax4AAAAC/star-destroyer-star-wars.gif" alt="Star Destroyer Arrives" width="500">
 </p>
 
 I am an **Informatics Student** who still keep learning about coding with a focus on UI/UX and Front-End Development. I'm still a beginner and far away from becoming a professional programmer.
